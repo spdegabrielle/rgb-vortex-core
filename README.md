@@ -18,3 +18,14 @@ instead of
 * Fn+<, = Layer 2 (Spacebar left LED showing Red color)
 * Fn+>. = Layer 3 (Spacebar left LED showing Green color)
 * Fn+Shift = Layer 4 (Spacebar left LED showing Blue color)
+
+
+How do I change the key mapping of Fn back to the default if AltR has been remapped to Fn?
+
+
+----
+relevant notes
+
+
+
+https://sevenseacat.net/posts/2017/the-noobs-guide-to-programming-a-vortex-core/
