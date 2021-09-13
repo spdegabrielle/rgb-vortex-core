@@ -22,10 +22,11 @@ instead of
 
 > Restore to factory default:
 > 1. Press and hold **Fn** + R, L_spacebar LED will be flashing in white color for 5 seconds, then the layer will restore to default.
+
 If I press **Right Alt** and R the left spacebar let flashes white
 
-> 2. Press and hold both Alt, L_spacebar LED will be flashing in white color for 5 seconds it will clean all layers’ key codes if you had programmed.
-(return to default layer.)
+> 2. Press and hold both Alt, L_spacebar LED will be flashing in white color for 5 seconds it will clean all layers’ key codes if you had programmed. (return to default layer.)
+
 Has no affect - because Right Alt has been mapped to Fn
 
 Fn is not mapped to Right Alt because left alt and Fn do not trigger the above behaviour.
