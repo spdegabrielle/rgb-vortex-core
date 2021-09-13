@@ -50,3 +50,7 @@ https://www.vortexkeyboard.com.tw/ezfiles/796/1796/img/981/RGBCOREusermanual.pdf
 https://sevenseacat.net/posts/2017/the-noobs-guide-to-programming-a-vortex-core/
 
 https://www.mechtype.com/vortex-core-review/345
+
+
+https://spotonpccases.co.uk/my-account/
+
