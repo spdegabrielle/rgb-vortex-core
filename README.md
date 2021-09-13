@@ -26,6 +26,12 @@ How do I change the key mapping of Fn back to the default if AltR has been remap
 ----
 relevant notes
 
+http://vortexgear.tw/db/upload/webdata4/vortex_20198523345811246.pdf
 
+https://www.vortexkeyboard.com.tw/
+
+https://www.vortexkeyboard.com.tw/m/2001-1796-22734,c1409-1.php?Lang=en
+
+https://www.vortexkeyboard.com.tw/ezfiles/796/1796/img/981/RGBCOREusermanual.pdf
 
 https://sevenseacat.net/posts/2017/the-noobs-guide-to-programming-a-vortex-core/
