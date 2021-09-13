@@ -7,6 +7,13 @@ notes on RGB Vortex core keyboard
 
 It looks like AltR is Fn
 
+* RightAlt+M = Default layer (Spacebar left LED off)
+* RightAlt+<, = Layer 2 (Spacebar left LED showing Red color)
+* RightAlt+>. = Layer 3 (Spacebar left LED showing Green color)
+* RightAlt+Shift = Layer 4 (Spacebar left LED showing Blue color)
+
+instead of
+
 * Fn+M = Default layer (Spacebar left LED off)
 * Fn+<, = Layer 2 (Spacebar left LED showing Red color)
 * Fn+>. = Layer 3 (Spacebar left LED showing Green color)
