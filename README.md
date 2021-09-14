@@ -7,7 +7,7 @@ notes on RGB Vortex core keyboard
 
 
 
-**Layers selection**
+## Layers selection
 
 If you select a layer a key will perform its programmed action if set. If it has not been programmed it will perform it's default action.
 
@@ -19,8 +19,10 @@ e.g. 'v' will still emit 'v' when L2 is selected if it has not been programmed.
 * **Fn**+**Shift** = Layer 3 L3 (Spacebar left LED showing Blue color)
 (layer selection happens when you release the keys)
 
-Key code Programming Instruction:
+## Key code Programming Instruction:
+
 The default layer (L0) can not be programmed. Only layer 1(L1) ~ layer 3(L3) can be.
+
 1. **Fn** and layer selector key (L1~L3) to select which layer you want to programmed.
 2. **Fn** + **R_Ctrl** to enter the programming mode (R_Spacebar LED steadily lit in Blue color)
 3. Press key to program (R_Spacebar LED flashing in Red color)
@@ -33,10 +35,25 @@ The default layer (L0) can not be programmed. Only layer 1(L1) ~ layer 3(L3) can
 You can repeat steps 2 ~ 5 to program multiple keys in a single session.
 
 
-> Restore to factory default:
-> 1. Press and hold **Fn** + **R**, L_spacebar LED will be flashing in white color for 5 seconds, then the layer will restore to default.
+### More:
 
-> 2. Press and hold both **Alt**, L_spacebar LED will be flashing in white color for 5 seconds it will clean all layers’ key codes if you had programmed. (return to default layer.)
+> * Support Fn layer (e.g., Fn + A) to program.
+
+unclear what above line means
+
+* Support time delay, press 15ms key (Fn + T) each time to delay 15ms, press 0.1s key (Fn + G) each time to delay 0.1s, press 0.5s key (Fn + B) each time to delay 0.5s. Consecutive delay will add up but will only be counted as 1 key stroke. Every key can program up to 32 key strokes.
+
+* If there is no key pressed for 15 sec. in programming mode, it will back to normal mode.
+
+
+## Restore to factory default:
+
+Reset layer: Press and hold **Fn** + **R**, L_spacebar LED will be flashing in white color for 5 seconds, then the layer will restore to default.
+
+Clear all layers: Press and hold both **Alt**, L_spacebar LED will be flashing in white color for 5 seconds it will clean all layers’ key codes if you had programmed. (return to default layer.)
+
+
+##
 
 
 ----
