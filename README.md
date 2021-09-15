@@ -13,7 +13,7 @@ These are my notes that decode most of the manual. Some mysteries still remain. 
 
 Layers are indicated by red, green and blue LED below the left spacebar, but layers don't have any relationship to the glyphs on the keys.
 
-
+----
 
 ## Layers selection
 
@@ -42,8 +42,11 @@ The default layer (L0) can not be programmed. Only layer 1(L1) ~ layer 3(L3) can
 
 You can repeat steps 2 to 5 to program multiple keys in a single session.
 
+----
 
 ### More:
+
+----
 
 > * Support Fn layer (e.g., Fn + A) to program.
 
@@ -51,10 +54,13 @@ Fn+A is rewind, S is play/pause and D is fastforward.
 
 Does this mean that on programmable layers L1-L3 macros can be attached to these keys?
 
+----
 
 > * Support time delay, press 15ms key (Fn + T) each time to delay 15ms, press 0.1s key (Fn + G) each time to delay 0.1s, press 0.5s key (Fn + B) each time to delay 0.5s. 
 
 Not tried this be seems clear that you can add multiple time delays to a macro.
+
+----
 
 > * Consecutive delay will add up but will only be counted as 1 key stroke. 
 > * Every key can program up to 32 key strokes.
@@ -64,6 +70,7 @@ Not tried this be seems clear that you can add multiple time delays to a macro.
 
 It times out. This has happened to me a lot.
 
+----
 
 ## Reset layers
 
@@ -130,7 +137,8 @@ Press to cycle through the following:
 
 * **Pn** + C Brightness down
 * **Pn** + V Brightness up - **BUG** does not go back to full brightness
-* **Pn** + < Light effect speed down > Light effect speed up
+* **Pn** + < Light effect speed down
+* **Pn** + > Light effect speed up
 
 ### To be confirmed: 
 
@@ -143,6 +151,21 @@ Press to cycle through the following:
 * **Pn** + O Display recording 1
 * **Pn** + P Display recording 2
 
+## RGB LEDs edit descriptions:
+
+The RGB CORE has a total of 3 layers to edit the LEDs.*5
+
+* Step 1. Choose a layer (Fn+<,> or ? key) you want to edit.
+* Step 2. Press Pn + U or I to enter the edit mode.
+* Step 3. Press Pn + Q,W and E to mix color*6 OR press Pn + ESC*7 to turn on the palette and select a color you want.
+* Step 4. Select a key or a row you want to change color. 
+* Step 5. Press Pn + U or I again to exit edit mode. 
+* Step 6. Press Pn + O or Pn + P to display the previously saved setting.
+
+Note: 
+* *5 Each layer can be edited in single key(Pn+U) or whole row(Pn+I)
+* *6 The color you mixed will show on Capslock key
+* *7 There are total have 47 kinds of colors on palette.
 
 ## Other description:
 
@@ -153,17 +176,27 @@ Not clear what this means?
 
 ### Switch Fn / Pn position: 
 
-Fn or Pn key only can swap to L_Ctrl, L_Win, L_Alt, L_Spacebar, R_Alt
+**Danger** 
 
-Hit Fn and L_Shift for 3 seconds, then select new Fn key location directly 
+> Fn or Pn key only can swap to L_Ctrl, L_Win, L_Alt, L_Spacebar, R_Alt
 
-Change Pn: With the above step
+> Hit Fn and L_Shift for 3 seconds, then select new Fn key location directly 
+
+> Change Pn: With the above step
+
+
 
 ----
 
 > 3. Fn1+Z as symbol key between L-shift and Z for ISO version
 
 Not clear what this means?
+
+
+
+
+
+
 
 
 ----
