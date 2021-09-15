@@ -1,6 +1,12 @@
 # rgb-vortex-core
 notes on RGB Vortex core keyboard
 
+I had a lot of trouble understanding the official guide at https://www.vortexkeyboard.com.tw/ezfiles/796/1796/img/981/RGBCOREusermanual.pdf
+
+These are my notes that decode most of the manual. Some mysteries still remain. Contributions and comments welcome.
+
+### Basics
+
 * Holding **Fn1** lets you type red glyphs
 * Holding **Fn1+shift** lets you type green glyphs
 * Holding **Fn** lets you type blue glyph actions
@@ -41,24 +47,38 @@ You can repeat steps 2 to 5 to program multiple keys in a single session.
 
 > * Support Fn layer (e.g., Fn + A) to program.
 
-unclear what above line means
+Fn+A is rewind, S is play/pause and D is fastforward. 
 
-* Support time delay, press 15ms key (Fn + T) each time to delay 15ms, press 0.1s key (Fn + G) each time to delay 0.1s, press 0.5s key (Fn + B) each time to delay 0.5s. Consecutive delay will add up but will only be counted as 1 key stroke. Every key can program up to 32 key strokes.
-
-* If there is no key pressed for 15 sec. in programming mode, it will back to normal mode.
+Does this mean that on programmable layers L1-L3 macros can be attached to these keys?
 
 
-## Reset layers to factory default
+> * Support time delay, press 15ms key (Fn + T) each time to delay 15ms, press 0.1s key (Fn + G) each time to delay 0.1s, press 0.5s key (Fn + B) each time to delay 0.5s. 
+Not tried this be seems clear that you can add multiple time delays to a macro.
+
+> * Consecutive delay will add up but will only be counted as 1 key stroke. 
+> * Every key can program up to 32 key strokes.
+
+
+
+> * If there is no key pressed for 15 sec. in programming mode, it will back to normal mode.
+
+It times out. This has happened to me a lot.
+
+
+## Reset layers
 
 Reset layer: Press and hold **Fn** + **R**, L_spacebar LED will be flashing in white color for 5 seconds, then the layer will restore to default.
 
 Clear all layers: Press and hold both **Alt**, L_spacebar LED will be flashing in white color for 5 seconds it will clean all layers’ key codes if you had programmed. (return to default layer.)
 
-NB: you may not be able to do these actions if you have remapped the relevant keys. Use factory reset by relaoding firmware.
+NB: you may not be able to do these actions if you have remapped the relevant keys. Use factory reset by usinn the (windows only) firmware update tool.
 
 ## Factory reset
 
-A factory reset can be achieved by reinstalling the firmware using the firmware installer tool at 
+A factory reset can be achieved by reinstalling the firmware using the firmware installer tool found at https://www.vortexkeyboard.com.tw/m/2001-1796-22734,c1409-1.php?Lang=en
+
+Direct link https://www.vortexkeyboard.com.tw/ezfiles/796/1796/img/981/RGBCOREFirmwareV1.04.05.exe  (windows only)
+
 
 ## Backlight effects
 
@@ -119,6 +139,7 @@ Press to cycle through the following:
 
 
 
+
 * **Pn** + O Display recording 1
 * **Pn** + P Display recording 2
 
@@ -129,18 +150,18 @@ Press to cycle through the following:
 ----
 relevant notes
 
-http://vortexgear.tw/db/upload/webdata4/vortex_20198523345811246.pdf
+manual: https://www.vortexkeyboard.com.tw/ezfiles/796/1796/img/981/RGBCOREusermanual.pdf
 
-https://www.vortexkeyboard.com.tw/
+manual: http://vortexgear.tw/db/upload/webdata4/vortex_20198523345811246.pdf
 
-https://www.vortexkeyboard.com.tw/m/2001-1796-22734,c1409-1.php?Lang=en
+Manufacturer: https://www.vortexkeyboard.com.tw/  (also on facebook)
 
-https://www.vortexkeyboard.com.tw/ezfiles/796/1796/img/981/RGBCOREusermanual.pdf
+Product page: https://www.vortexkeyboard.com.tw/m/2001-1796-22734,c1409-1.php?Lang=en
 
-https://sevenseacat.net/posts/2017/the-noobs-guide-to-programming-a-vortex-core/
+A related guide for the non-rgb vortex core: https://sevenseacat.net/posts/2017/the-noobs-guide-to-programming-a-vortex-core/
 
-https://www.mechtype.com/vortex-core-review/345
+A fairly detailed review of vortex core: https://www.mechtype.com/vortex-core-review/345
 
 
-https://spotonpccases.co.uk/my-account/
+The UK reseller I purchased mine from: ttps://spotonpccases.co.uk/
 
