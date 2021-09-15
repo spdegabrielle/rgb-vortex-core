@@ -54,7 +54,9 @@ Reset layer: Press and hold **Fn** + **R**, L_spacebar LED will be flashing in w
 
 Clear all layers: Press and hold both **Alt**, L_spacebar LED will be flashing in white color for 5 seconds it will clean all layers’ key codes if you had programmed. (return to default layer.)
 
-## Reset layers to factory default
+NB: you may not be able to do these actions if you have remapped the relevant keys. Use factory reset by relaoding firmware.
+
+## Factory reset
 
 A factory reset can be achieved by reinstalling the firmware using the firmware installer tool at 
 
