@@ -151,21 +151,30 @@ Press to cycle through the following:
 * **Pn** + O Display recording 1
 * **Pn** + P Display recording 2
 
-## RGB LEDs edit descriptions:
+----
 
-The RGB CORE has a total of 3 layers to edit the LEDs.*5
 
-* Step 1. Choose a layer (Fn+<,> or ? key) you want to edit.
-* Step 2. Press Pn + U or I to enter the edit mode.
-* Step 3. Press Pn + Q,W and E to mix color*6 OR press Pn + ESC*7 to turn on the palette and select a color you want.
-* Step 4. Select a key or a row you want to change color. 
-* Step 5. Press Pn + U or I again to exit edit mode. 
-* Step 6. Press Pn + O or Pn + P to display the previously saved setting.
+## Editing LED key/row settings
 
-Note: 
-* *5 Each layer can be edited in single key(Pn+U) or whole row(Pn+I)
-* *6 The color you mixed will show on Capslock key
-* *7 There are total have 47 kinds of colors on palette.
+This seems to document key or row LED editing - not tried it yet
+
+> ## RGB LEDs edit descriptions:
+> 
+> The RGB CORE has a total of 3 layers to edit the LEDs.*5
+> 
+> * Step 1. Choose a layer (Fn+<,> or ? key) you want to edit.
+> * Step 2. Press Pn + U or I to enter the edit mode.
+> * Step 3. Press Pn + Q,W and E to mix color*6 OR press Pn + ESC*7 to turn on the palette and select a color you want.
+> * Step 4. Select a key or a row you want to change color. 
+> * Step 5. Press Pn + U or I again to exit edit mode. 
+> * Step 6. Press Pn + O or Pn + P to display the previously saved setting.
+> 
+> Note: 
+> * *5 Each layer can be edited in single key(Pn+U) or whole row(Pn+I)
+> * *6 The color you mixed will show on Capslock key
+> * *7 There are total have 47 kinds of colors on palette.
+
+----
 
 ## Other description:
 
