@@ -1,9 +1,11 @@
 # rgb-vortex-core
 notes on RGB Vortex core keyboard
 
-* Holding **Fn1** lets you type red glyphs (red LED below left spacebar)
-* Holding **Fn1+shift** lets you type green glyphs (green LED below left spacebar)
-* Holding **Fn** lets you type blue glyph actions (blue LED below left spacebar)
+* Holding **Fn1** lets you type red glyphs
+* Holding **Fn1+shift** lets you type green glyphs
+* Holding **Fn** lets you type blue glyph actions
+
+Layers are indicated by red, green and blue LED below the left spacebar, but layers don't have any relationship to the glyphs on the keys.
 
 
 
@@ -32,7 +34,7 @@ The default layer (L0) can not be programmed. Only layer 1(L1) ~ layer 3(L3) can
 
 **R_ctrl**, **M**, **<** , **>** and **L_Shift** keys are fixed can not be programmed.
 
-You can repeat steps 2 ~ 5 to program multiple keys in a single session.
+You can repeat steps 2 to 5 to program multiple keys in a single session.
 
 
 ### More:
@@ -53,7 +55,18 @@ Reset layer: Press and hold **Fn** + **R**, L_spacebar LED will be flashing in w
 Clear all layers: Press and hold both **Alt**, L_spacebar LED will be flashing in white color for 5 seconds it will clean all layers’ key codes if you had programmed. (return to default layer.)
 
 
-##
+## Backlight effects
+
+Backlight effects are set on a per layer basis; L0 can have a different effect to L1 etc.
+
+Hold Pn
+
+Tap R while holding Pn to cycle through single colour backlight effects
+* Tap Q, W, or E while holding Pn to select red, green or blue as colour for single colour backlight effect.
+
+Tap T while holding Pn to cycle through multi-colour backlight effects
+
+
 
 
 ----
