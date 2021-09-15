@@ -53,11 +53,11 @@ Does this mean that on programmable layers L1-L3 macros can be attached to these
 
 
 > * Support time delay, press 15ms key (Fn + T) each time to delay 15ms, press 0.1s key (Fn + G) each time to delay 0.1s, press 0.5s key (Fn + B) each time to delay 0.5s. 
+
 Not tried this be seems clear that you can add multiple time delays to a macro.
 
 > * Consecutive delay will add up but will only be counted as 1 key stroke. 
 > * Every key can program up to 32 key strokes.
-
 
 
 > * If there is no key pressed for 15 sec. in programming mode, it will back to normal mode.
@@ -144,7 +144,26 @@ Press to cycle through the following:
 * **Pn** + P Display recording 2
 
 
+## Other description:
 
+Not clear what this means?
+> 1. L_Win + L_Alt + R_Spacebar = R_Shift, R_win , Menu(Pn) and R_Ctrl as arrow keys
+
+----
+
+### Switch Fn / Pn position: 
+
+Fn or Pn key only can swap to L_Ctrl, L_Win, L_Alt, L_Spacebar, R_Alt
+
+Hit Fn and L_Shift for 3 seconds, then select new Fn key location directly 
+
+Change Pn: With the above step
+
+----
+
+> 3. Fn1+Z as symbol key between L-shift and Z for ISO version
+
+Not clear what this means?
 
 
 ----
