@@ -224,5 +224,5 @@ A related guide for the non-rgb vortex core: https://sevenseacat.net/posts/2017/
 A fairly detailed review of vortex core: https://www.mechtype.com/vortex-core-review/345
 
 
-The UK reseller I purchased mine from: ttps://spotonpccases.co.uk/
+The UK reseller I purchased mine from: https://spotonpccases.co.uk/
 
