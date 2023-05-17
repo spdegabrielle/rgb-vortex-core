@@ -9,7 +9,7 @@ These are my notes that decode most of the manual. Some mysteries still remain. 
 
 * Holding **Fn1** lets you type red glyphs
 * Holding **Fn1+shift** lets you type green glyphs
-* Holding **Fn** lets you type blue glyph actions
+* Holding **Alt** lets you type blue glyph actions
 
 Layers are indicated by red, green and blue LED below the left spacebar, but layers don't have any relationship to the glyphs on the keys.
 
